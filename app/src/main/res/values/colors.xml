@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="placeholder_bg">#FFFCFC</color>
+    <color name="item_name">#111111</color>
+    <color name="description">#212121</color>
+    <color name="author">#616161</color>
+    <color name="release">#616161</color>
+    <color name="momotwo">#990066</color>
+    <color name="momo">#b0006d</color>
+
+    <color name="colorZZZ">#465FEC</color>
+    <color name="colorAAA">#709FB0</color>
+    <color name="colorBBB">#726A95</color>
+    <color name="colorCCC">#A0C1B8</color>
+    <color name="hinhnen">#F3ECD3</color>
+    <color name="hinhnen_login">#709FB0</color>
+    <color name="text">#FF6D4C</color>
+    <color name="background_toolbar_home">#709FB0</color>
+    <color name="text_filter">#2BB5D1</color>
+    <color name="bg_filter">#F2F2F2</color>
+    <color name="whiles">#FFFFFF</color>
+
+</resources>
